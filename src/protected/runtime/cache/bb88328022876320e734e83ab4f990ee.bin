@@ -1,0 +1,14 @@
+a:2:{i:0;a:2:{i:0;s:1891:"<div class="row content">
+    <div class="col-md-12">
+            <div class="article are-border">
+                <div class="title">
+                    <h2><a href="/blog/a/40.html">博客介绍及最新完成功能列表</a></h2>
+                    <p><small><span>作者：转载自网络</span><span>2014年07月07日 02:07:27</span> <span>分类：<a href="/blog/c/6.html">生活随笔</a></span></small></p>
+                </div>
+                <div class="summary">
+                     <p><p>沁痕博客基于PHP编程语言进行设计，PHP是一种面向对象的Web程序设计语言，它主要优势体现在简单、面向对象、可移植等多方面，PHP在互联网等领域内占有非常重要的地位。</p><p>采用MVC设计模式，MVC（Model-View-Controller，模型—视图—控制器模式）是软件开发中的一种软件架构模式它把软件系统分为三个基本部分：模型（Model），视图（View）和控制器（Controller），这样可以很好的分离业务逻辑和显示视图，使得客户在编写自己的网页风格时能得心应手，而不受程序编写的限制。沁痕博客采用YII技术框架进行开发，YII 是一个典型的基于面向对象 (OOP)和Model-View-Controller (MVC)模型的企业级WEB应用框架。</p><p>在页面表现上采用Bootstrap框架，符合W3C标准的CSS+DIV设计模式，同时兼容主流浏览器，保证网站页面不会因为将来网络应用的升级而被淘汰。CSS+DIV设计模式将内容和样式进行分离，使页面和样式的调整变得更加简便，同时对搜索引擎更加友好。</p><p>博客最新完成功能列表：</p><p>1、被选中的导航栏目高亮<br></p><p>2、栏目下的文章分页</p><p>3、站点信息配置</p><p>4、友情链接管理</p></p>
+                </div>
+            </div>
+        </div>
+</div>
+";i:1;N;}i:1;N;}

@@ -1,0 +1,183 @@
+a:2:{i:0;a:2:{i:0;s:10614:"<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>建站资源 - 沁痕博客</title>
+            <link rel="stylesheet" type="text/css" href="/blog/assets/index/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/blog/assets/index/js/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/blog/assets/index/css/style.css">
+    <!--[if lt IE 9]>
+          <script src="/blog/assets/index/js/html5shiv.min.js"></script>
+          <script src="/blog/assets/index/js/respond.min.js"></script>
+      <![endif]-->
+  </head>
+  <body>
+    <header id="header">
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container navbar-info">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">沁痕博客</a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <form class="navbar-form navbar-right" role="search">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search">
+              </div>
+              <button type="submit" class="btn btn-default">Submit</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="desc-info">
+            <p>天下皆知美之为美，斯恶已；</p>
+            <p class="pull-right">皆知善之为善，斯不善已。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="box">
+            <div class="box-list">
+              <ul class="box-nav">
+                <li><a href="/blog/./index.html"><span class="home-span glyphicon glyphicon-home"></span></a></li>
+                                                                                                            <li><span class="cat  active"><a href="/blog/c/4.html">建站资源</a></span></li>
+                                                      <li><span class="cat  "><a href="/blog/c/5.html">电脑技巧</a></span></li>
+                                                      <li><span class="cat  "><a href="/blog/c/6.html">生活随笔</a></span></li>
+                                                  </ul>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row content">
+  <div class="col-md-12">
+    <div class="info">
+              <div class="article">
+        <div class="article-title">
+           <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/26.html">本博客发布文章使用simditor富文本编辑器</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>Simditor是一个简单快速的富文本编辑器。Simditor是Tower开源的所见即所得的在线富文本编辑器。Simditor的理念是保持简单，避免过度的功能，每一个特性都追求极致的用户体验。同时，Simditor也很容易扩展。使用方法在你的html页面中引用如下文件&lt;link media="all" rel="stylesheet" type="text/css" href="styles/font-awesome.css" /&gt;
+&lt;link media="all" rel="stylesheet" type="text/css"</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://simditor.tower.im/assets/images/logo.png" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 13:06:37</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/26.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/26.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+       <div class="divider"></div>            <div class="article">
+        <div class="article-title">
+           <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/24.html">I/O大会Google Fit现真身，神似苹果 HealthKit</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>I/O 2014 大会上，Google 推出旗下智能健康信息平台 Google Fit，后者能组织、整理 Android 上各类保健及健身类应用、以及各类适配运动和健康追踪器、传感器的数据和信息。“一切尽在你的掌握中”——与 HealthKit 一个思路，集中管理体验。与 iOS 平台类似，过去保健和健身类应用间不能互相分享数据和信息，这有碍于用户查看自己完整和细致的生理状况，也不利于开发者深化产品体验。随着 Google Fit 的发布，Android 应用间可以互相读取、使用各类健康信息，比如：体重、身高、血压等等——数据种类也与 HealthKit 非常神似。目前，已</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://s1.51cto.com/wyfs02/M02/37/07/wKioL1Or6yCitl7LAAD0p91eg70873.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 12:06:54</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/24.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/24.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+       <div class="divider"></div>            <div class="article">
+        <div class="article-title">
+           <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/22.html">2014年微社区第三期深圳站长俱乐部沙龙</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>2014年第三期微社区站长俱乐部沙龙，我们将在深圳腾讯大厦 (广东省深圳市南山区高新科技园中区一路腾讯大厦) 给站长进行培训，本次培训我们给大家带来了微社区产品介绍、如何运营、成功活动分析等课程哦，站长，编辑们，还在等什么？要报名的赶快赶快！本次报名名额不限，请大家珍惜，请勿迟到~（课程完全免费）Android是一种基于Linux的自由及开放源代码的操作系统，主要使用于移动设备，如智能手机和平板电脑，由Google公司和开放手机联盟领导及开发。尚未有统一中文名称，中国大陆地区较多人使用“安卓”或“安致”。Android操作系统最初由Andy Rubin开发，主要支持手机。2005年8月由Google收购注资。2007年11月，Google与84家硬件制造商、软件开发商及电信营运</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://img0.bdstatic.com/img/image/shouye/mnsy-11517974232.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 12:06:37</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/22.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/22.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+       <div class="divider"></div>            <div class="article">
+        <div class="article-title">
+           <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/23.html">Oracle Linux 7 RC 发布</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>Oracle Linux 7 RC 发布，此版本的发行说明并没有包括太多的信息，但是从 Oracle Linux 7 的下载页面我们可以发现此版本使用 Linux Kernel。其他更多更新内容可以参考Oracle Linux 7 beta&nbsp;版本。Oracle Linux 7 包括两个内核：</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 12:06:25</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/23.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/23.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+                 </div>
+  </div>
+
+  <div class="col-md-12">
+    <div class="info-pager">
+        <ul class="pagination" id="yw1"><li class="first"><a href="/blog/c/4.html">首页</a></li>
+<li class="previous"><a href="/blog/c/4.html">上一页</a></li>
+<li class="page"><a href="/blog/c/4.html">1</a></li>
+<li class="page active"><a href="/blog/c/4.html?page=2">2</a></li>
+<li class="next disabled"><a href="/blog/c/4.html?page=2">下一页</a></li>
+<li class="last disabled"><a href="/blog/c/4.html?page=2">末页</a></li></ul>      </div>
+  </div>
+</div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="box">
+            <h5 class="box-title">友情链接</h5>
+            <div class="box-list">
+              <ul class="box-nav">
+                                              <li><a href="http://developer.baidu.com/" target="_blank">百度开放云平台</a></li>
+                              <li><a href="http://lusongsong.com/" target="_blank">卢松松博客</a></li>
+                              <li><a href="http://www.williamlong.info/" target="_blank">月光博客</a></li>
+                            </ul>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <footer id="footer">
+      <div class="copyright">
+        沁痕博客 版权所有
+      </div>
+    </footer>
+   
+  </body>
+</html>";i:1;N;}i:1;N;}

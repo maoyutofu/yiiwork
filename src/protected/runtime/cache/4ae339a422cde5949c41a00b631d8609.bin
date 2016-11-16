@@ -1,0 +1,430 @@
+a:2:{i:0;a:2:{i:0;s:30501:"<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>沁痕博客 - 关注站长和互联网的媒体博客</title>
+            <link rel="stylesheet" type="text/css" href="/blog/assets/index/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/blog/assets/index/js/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/blog/assets/index/css/style.css">
+    <!--[if lt IE 9]>
+          <script src="/blog/assets/index/js/html5shiv.min.js"></script>
+          <script src="/blog/assets/index/js/respond.min.js"></script>
+      <![endif]-->
+  </head>
+  <body>
+    <header id="header">
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container navbar-info">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">沁痕博客</a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <form class="navbar-form navbar-right" role="search">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search">
+              </div>
+              <button type="submit" class="btn btn-default">Submit</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="desc-info">
+            <p>天下皆知美之为美，斯恶已；</p>
+            <p class="pull-right">皆知善之为善，斯不善已。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="box">
+            <div class="box-list">
+              <ul class="box-nav">
+                <li><a href="/blog/./index.html"><span class="home-span glyphicon glyphicon-home"></span></a></li>
+                                                                                                            <li><span class="cat  "><a href="/blog/c/4.html">建站资源</a></span></li>
+                                                      <li><span class="cat  "><a href="/blog/c/5.html">电脑技巧</a></span></li>
+                                                      <li><span class="cat  "><a href="/blog/c/6.html">生活随笔</a></span></li>
+                                                  </ul>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row content">
+  <div class="col-md-12">
+    <div class="info">
+              <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/40.html">博客介绍及最新完成功能列表</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>沁痕博客基于PHP编程语言进行设计，PHP是一种面向对象的Web程序设计语言，它主要优势体现在简单、面向对象、可移植等多方面，PHP在互联网等领域内占有非常重要的地位。采用MVC设计模式，MVC（Model-View-Controller，模型—视图—控制器模式）是软件开发中的一种软件架构模式它把软件系统分为三个基本部分：模型（Model），视图（View）和控制器（Controller），这样可以很好的分离业务逻辑和显示视图，使得客户在编写自己的网页风格时能得心应手，而不受程序编写的限制。沁痕博客采用YII技术框架进行开发，YII 是一个典型的基于面向对象 (OOP)和Model-View-Controller (MVC)模型的企业级WEB应用框架。在页面表现上采用Bootstrap框架，符合W3C标准的CSS+DIV设计模式，同时兼容主流浏览器，保证网站页面不会因为将来网络应用的升级而被淘汰。CSS+DIV设计模式将内容和样式进行分离，使页面和样式的调整变得更加简便，同时对搜索引擎更加友好。博客最新完成功能列表：</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:31</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/40.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/40.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/39.html">微信公众平台新接口解析：开发者如何利用？</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>上个月底微信终于开放了九大高级接口，开放之前便引起了业内的广泛猜测。开放之后的这段时间似乎热度有所下降，也未见到业内针对这些接口真正的一些动作，而这九大接口的开放对微信公众平台意味着什么似乎让许多公众号运营者迷茫了。适逢双十一电商大战，记者有幸拜会了国内领先的微信第三方服务平台微库技术总监，特意整理出一些大家可能比较关注的问题进行分享。问：现在正值双十一电商大战火热，未来微信是否也有可能成为电商大战的主角之一呢?虽然之前大家期待的微信支付接口最终并没有开放，但是微信照目前的市场以及它潜在的能量个人觉得它完全拥有成为一个移动电商平台的潜质，当然这 一切也必然是建立在微信仍然以社交为本质的基础上。即使目前微信并没有开放支付接口但是也并未完全封锁该接口，同时第三方平台也会有一些自己的解决办法， 微库平台已经上线的微商城功能目前也已经率先实现了微信商城在线支付。确实很期待看到以后双十一的电商大战时，可以直接用手机微信参与抢购，从而摆脱时间空间上的束缚，真正能给用户带来切实的便利。</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://s8.51cto.com/wyfs01/M00/32/7B/wKioOVKCuaGTrUrFAAC14Qyo7XA581.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:24</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/39.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/39.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/38.html">深入学习PHP数组删除元素方法</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>学习PHP时，你可能会遇到PHP数组删除问题，这里将介绍PHP数组删除问题的解决方法，在这里拿出来和大家分享一下。学过C语言的人可能都知道，C语言对字符串的处理功能很强，PHP是用C写成的，自然不例外的继承了C的处理字符串的优势。不过毕竟PHP是一门新的语言，与C语言还是有区别的，自然不能保证与C是完全相同的。所以有些功能只有经过测试才能知道。&nbsp; 有时候需要对一个字符串的每个字符进行处理，一般的做法可能是：&nbsp;$str="something"; &nbsp;for($i=0;&nbsp;&nbsp;$i&lt;strlen($str);&nbsp;&nbsp;$i++) &nbsp;
+{ &nbsp;$ch=substr($str,&nbsp;&nbsp;$i,&nbsp;&nbsp;1); &nbsp;
+//处理$ch &nbsp;}&nbsp;
+这样是可以，但是有没有更优美一点的办法呢？有，就是把它看成一个数组，C语言就是这样处理的。&nbsp;我们把上面的</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:47</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/38.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/38.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/37.html">改善PHP开发方式的5种方法</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>我们不应该轻视代码的组织，选择的编码样式应该是事先约定好的，许多人只是随机的在做这些事情，这让他们的代码变得十分混乱，十分令人难以理解。你可以在那里宣称自己是最好的开发者，但是，如果你的代码缺乏良好的组织，你是不会走的太远的。举个例子，比如说，在当地的社区大学中，你是一名教师。如果你决定从初级和高级的资料中随机地选取一大堆知识，然后按照这种顺序把这些知识教授给你的学生——而不是从初级到高级，循序渐进地教授给你的学生，那么你的学生们会十分困惑，而且，作为一名教师，他们是不会欢迎你的，如果他们不欢迎你，他们就不会上你的课。我的观点是，找出一种适合你的组织方法和编码样式，并且一直坚持下去，这样的话，你的代码的组织和布局会变得十分有条理。</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:09</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/37.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/37.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/36.html">HTML5应用在公司网站的案例</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>html5的优势主要体现在移动终端上,包括平板电脑,手机等移动终端,这其中,平板式以ipad为主,而手机是一iphone的ios系统,以及android的系统手机为主,html5编写的代码在互动方面看起来没有flash来得那么绚丽,但它的确已经开始取代adobe 的flash在移动市场上的地位,最近中国刚刚公布上网方式的改变,中国的上网人群所用设备比例,已经由pc转为移动终端,这就意味着,html5编写的网站,将比flash的网站,在移动终端上更有优势,因为flash无法在这些终端上看,就意味着丢失了它自己的商业价值.以下国外设计的一些效果比较好的html5网站，一起欣赏这是家英国的数字媒体营销公司，主要的业务是关键字营销，SEO，以及社交媒体营销。http://www.zazzlemedia.co.uk/</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://images.51cto.com/files/uploadimg/20120730/0950590.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:43</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/36.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/36.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/35.html">如何模拟超过 5 万的并发用户</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>文将从负载测试的角度，描述了做一次流畅的5万用户并发测试需要做的事情.你可以在本文的结尾部分看到讨论的记录.快速的步骤概要编写你的脚本使用JMeter进行本地测试BlazeMeter沙箱测试使用一个控制台和一个引擎设置Users-per-Engine的数量设置并测试你的集合&nbsp;(1个控制台和10-14 引擎)使用 Master / Slave 特性来达成你的最大CC目标</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://s3.51cto.com/wyfs02/M00/38/1D/wKiom1OzZEbzKx2NAADw3Gv5dJQ302.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:48</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/35.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/35.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/34.html">PHP开发：从程序化到面向对象</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>教程详情• 难度: 中级• 预计完成时间: 60分钟这份教程的诞生源自一年多之前Robert C.Martin在演讲中带给我的启发。当时他的演讲主题在于讨论创造“终极编程语言”的可能性。在过程中，他提出了这样几个问题：为什么会存在“终极编程语言”？这样的语言应具备哪些特性？但随着他的讲解，我从中发现另一种有趣的思路：每种编程范式都在无形中给程序员带来诸多无法避免的局限性。为了正本溯源，我打算在正式进入PHP由程序化向面向对象转变这一话题之前，先与大家分享一些理论知识。范式局限每种编程范式都限制了我们将想象转化为现实的能力。这些范式去掉了一部分可行方案，却纳入另一些方案作为替代，但这一切都是为了实现同样的表示效果。模块化编程令程序规模受到制约，强迫程序员只能在对应模块范畴之内施展拳脚，且每个模块结尾都要以“go-to”来指向其它模块。这种设定直接影响了程序成品的规模。另外，结构化编程与程序化编程方式去掉了“go-to”声明，从</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:06</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/34.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/34.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/33.html">105+ 个免费的扁平UI工具包 增强你的Web设计</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>作为一名开发人员，需要时刻保持敏锐度，站在趋势的最新潮流上。如果你是一个热衷于设计的人，你必须要很好地了解扁平界面设计的新趋势，因为它现在已经无处不在了。扁平UI设计使用的颜色像黄色，绿色，红色，没有渐变或复杂的图形内容。在2014年的今天，这可能会成为WEB 2.0的一个重要组成部分，因为这已经被大家使用和拥戴。目前已经有成千上万的网站都在使用扁平设计，下面这些高水准的色彩组合效果，将会令你印象非常深刻。这些很酷的扁平UI工具包中包含了模板，PSD等很多相关类型。105+ 个免费扁平UI工具包 增强你的Web设计：</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://thedesignpixel.com/wp-content/uploads/2014/05/Flat-UI.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:15</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/33.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/33.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/32.html">Bootstrap 3.2.0 发布，Web 前端 UI 框架</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>最新的 Bootstrap 3.2.0 发布了，该版本主要新特性包括：Responsive embedsNew responsive utility classesCopy docs snippetsLMVTFYBrowser bugs等等，详细介绍请看官方发行说明。下载地址：https://github.com/twbs/bootstrap/archive/v3.2.0.zip</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://static.oschina.net/uploads/img/201203/16115128_hu5O.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:02</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/32.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/32.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/31.html">去掉Discuz title中的 Powered by Discuz!</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>进入模板目录template\default\common找到header_common.htm文件，然后找到如下代码，将Powered by Discuz!删除就可以了，也可根据自己的需要而更改：&lt;title&gt;&lt;!--{if !empty($navtitle)}--&gt;$navtitle - &lt;!--{/if}--&gt;&lt;!--{if empty($nobbname)}--&gt; $_G['setting']['bbname'] - &lt;!--{/if}--&gt;&lt;font color="Red"&gt; Powered by Discuz!&lt;/font&gt;&lt;/title&gt;</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:14</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/31.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/31.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/30.html">discuz 添加多个创始人的方法</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>1、找到config/config_global.php文件2、找到$_config['admincp']['founder'] = '1';1就是把uid为1的用户设置为创始人，如果要设置多个用,隔开。如把uid为2的也设置为创始人，代码如下：$_config['admincp']['founder'] = '1,2';</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:00</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/30.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/30.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/29.html">教你替换网站小图标 favicon.ico</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>只要将favicon.ico复制或替换到你网站的根目录下面就可以了。如果不知道favicon.ico怎么做，你可以选择任意一张图片，在百度搜索 icon在线制作，上面图片，然后就会生成ico图标了，然后叫名字改为favicon.ico就可以了。</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年07月03日 15:07:34</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/29.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/29.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/28.html">Ubuntu下安装搜狗输入法</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>在ubuntu下可以使用搜狗拼音输入法了，这真是个令人振奋的消息。本文讲述怎样在Ubuntu系统下安装搜狗拼音输入法。1.删除系统原有的输入法Ubuntu下默认安装了ibus，因此先删除它。并且对已经安装的老版fcitx同时也要删掉再重新安装。$ sudo apt-get remove ibus
+$ sudo apt-get remove fcitx*
+删除依赖库并检查fcitx是否已经删除：$ sudo apt-get autoremove
+$ dpkg --get-selections | grep fcitx
+2.添加fcitx的ppa添加fcitx的ppa然后刷新软件源:$ sudo add-apt-repository ppa:fcitx-team/nightly
+$ sudo apt-get update
+3.安装搜狗</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 13:06:50</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/28.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/28.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/27.html">ubuntu设置弄残了 恢复sudo apt-get install</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>ubuntu设置弄残了 恢复sudo apt-get install ibus-pinyin unity-control-center unity-control-center-signon webaccounts-extension-common xul-ext-webaccounts</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 13:06:57</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/27.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/27.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/26.html">本博客发布文章使用simditor富文本编辑器</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>Simditor是一个简单快速的富文本编辑器。Simditor是Tower开源的所见即所得的在线富文本编辑器。Simditor的理念是保持简单，避免过度的功能，每一个特性都追求极致的用户体验。同时，Simditor也很容易扩展。使用方法在你的html页面中引用如下文件&lt;link media="all" rel="stylesheet" type="text/css" href="styles/font-awesome.css" /&gt;
+&lt;link media="all" rel="stylesheet" type="text/css"</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://simditor.tower.im/assets/images/logo.png" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 13:06:37</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/26.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/26.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/25.html">沁痕博客开通啦</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>今天是沁痕博客上线的好日子哦。&nbsp;沁痕博客是一个关注站长与互联网创业的IT科技博客，大家可以多多关注，一起分享互联网的那些事儿。</p>
+                  </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 13:06:42</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/25.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/25.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+      <div class="divider"></div>            <div class="article">
+       <div class="article-title">
+          <h2 class="article-h2"><i class="article-icon"></i><a href="/blog/a/24.html">I/O大会Google Fit现真身，神似苹果 HealthKit</a></h2>
+        </div>
+        <div class="article-summary">
+          <p>I/O 2014 大会上，Google 推出旗下智能健康信息平台 Google Fit，后者能组织、整理 Android 上各类保健及健身类应用、以及各类适配运动和健康追踪器、传感器的数据和信息。“一切尽在你的掌握中”——与 HealthKit 一个思路，集中管理体验。与 iOS 平台类似，过去保健和健身类应用间不能互相分享数据和信息，这有碍于用户查看自己完整和细致的生理状况，也不利于开发者深化产品体验。随着 Google Fit 的发布，Android 应用间可以互相读取、使用各类健康信息，比如：体重、身高、血压等等——数据种类也与 HealthKit 非常神似。目前，已</p>
+          <p style="overflow:hidden;text-align:center;"><img src="http://s1.51cto.com/wyfs02/M02/37/07/wKioL1Or6yCitl7LAAD0p91eg70873.jpg" style="max-height:210px;"></p>        </div>
+        <div class="article-footer">
+              <span class="article-time"><i class="article-icon"></i>2014年06月27日 12:06:54</span> 
+              <span class="article-more">
+                <i class="article-icon"></i>
+                <a href="/blog/a/24.html">阅读全文</a>
+              </span>
+              <span class="article-comment">
+                <i class="article-icon"></i>
+                <a href="/blog/a/24.html#comment">评论</a>
+              </span>
+        </div>
+      </div>
+            
+    </div>
+  </div>
+</div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="box">
+            <h5 class="box-title">友情链接</h5>
+            <div class="box-list">
+              <ul class="box-nav">
+                                              <li><a href="http://developer.baidu.com/" target="_blank">百度开放云平台</a></li>
+                              <li><a href="http://lusongsong.com/" target="_blank">卢松松博客</a></li>
+                              <li><a href="http://www.williamlong.info/" target="_blank">月光博客</a></li>
+                            </ul>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <footer id="footer">
+      <div class="copyright">
+        沁痕博客 版权所有
+      </div>
+    </footer>
+   
+  </body>
+</html>";i:1;N;}i:1;N;}

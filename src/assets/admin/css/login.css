@@ -1,0 +1,31 @@
+ 
+*{ padding:0; margin:0;}
+body{ background:#eeeeee; font-family:'宋体'; font-size:12px; text-align:center; margin:0 auto; color:#444444;}
+ul{ list-style:none;}
+img{ border:none;}
+.layout{ width:1000px; text-align:center; margin:0 auto;}
+#mainlogin{  width:787px; height:306px; 	position: absolute; left: 50%; top: 50%; margin-top: -223px; margin-left: -393px;}
+.mainlist{ background:url(../images/bg.gif) no-repeat; width:787px; height:306px; clear:both;}
+.mainlist ul{ padding-top:45px; padding-left:70px;}
+.mainlist ul li{ padding-bottom:25px; overflow:hidden; zoom:1;}
+.name{ font-size:14px; font-weight:bold; margin-right:10px; height:38px; line-height:38px; float:left; text-align:right; width:120px;} 
+.inputbg{ float:left;background:url(../images/all.gif) no-repeat left -54px;  width:370px; height:38px;}
+.inputpwd{float:left;background:url(../images/all.gif) no-repeat left -92px;  width:370px; height:38px; }
+.inputyzm{float:left;background:url(../images/all.gif) no-repeat left -130px;  width:122px; height:38px;}
+.mainlist input{ border:none;  color:#444444; font-size:14px; background:none; width:320px; font-weight:bold;}
+.mainlist input.user{padding:12px 10px 8px 40px;}
+
+.btn_submit{background:url(../images/common/btn_bg.gif); width:90px; padding:3px 0px 5px 6px; text-align:center; height:22px; border:0px; cursor:pointer}
+input[type="password"],input[type="text"]{padding:10px 10px 10px 40px; }
+#password,#passwd,#dbpasswd{_padding:9px 10px 8px 40px;}
+.mainlist input.yzm{padding:10px;width:107px; color:#444;}
+.logbutton{ background:url(../images/line.gif) no-repeat; height:20px; padding-top:20px;}
+.btn{border: 0; display:inline-block; background:url(../images/all.gif) no-repeat left -170px; width:122px; height:34px;}
+.btn:hover{border: 0; background:url(../images/all.gif) no-repeat left -204px;}
+
+.errorMessage{
+	text-align:left;
+	height: 25px;
+	line-height: 25px;
+	color:red;
+}
