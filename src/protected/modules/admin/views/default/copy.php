@@ -46,11 +46,11 @@
 		</tr>
 		<tr>
 			<td>版权所有</td>
-			<td>沁痕博客</td>
+			<td><?php echo CHtml::encode(Yii::app()->name) ?></td>
 		</tr>
 		<tr>
 			<td>开发者</td>
-			<td>沁痕居士 36634584@qq.com</td>
+			<td>lemontea 36634584@qq.com</td>
 		</tr>
 		<tr>
 			<td>程序版本</td>

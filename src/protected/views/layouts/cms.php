@@ -118,7 +118,7 @@
     <footer id="footer">
       <div class="copyright">
       <?php if($this->beginCache('copyright', array('duration'=>3600))): ?>
-        <?php echo CHtml::encode($this->site) ?> 版权所有 <?php echo $this->statistical?>
+        <?php echo CHtml::encode($this->site) ?> 版权所有  Powered by <a href="https://github.com/tjz101/yiiwork">YiiWork</a> <?php echo $this->statistical?>
         <?php $this->endCache();endif; ?>
       </div>
     </footer>

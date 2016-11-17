@@ -91,7 +91,7 @@
 				<div class="text">
 					<ul class="con">
 				        <li class="nav_u">
-				        	<a href="<?php echo $this->createUrl('/index.html') ?>" class="pos" target="_blank">前台首页</a>				        	
+				        	<a href="<?php echo $this->createUrl('/') ?>" class="pos" target="_blank">前台首页</a>				        	
 				        </li> 
 				    </ul>
 				    <!--
@@ -126,7 +126,7 @@
 	<!-- 底部 -->
 	<div id="foot_box">
 		<div class="foot">
-			<p>@Copyright © 2013-2014 <?php echo CHtml::encode(Yii::app()->name) ?> All Rights Reserved.</p>
+			<p>Copyright © 2013-2014 <?php echo CHtml::encode(Yii::app()->name) ?> All Rights Reserved. Powered by <a href="https://github.com/tjz101/yiiwork" style="color:#fff;font-size:12px;">YiiWork</a></p>
 		</div>
 	</div>
 
